@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="DCxFa-xxiEZox5UhMWHD">
-    <mxGraphModel dx="1208" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1067" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="k0tqL5N_Ha3pNmNdO7Qn-33" edge="1" parent="1" source="k0tqL5N_Ha3pNmNdO7Qn-1" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=0;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="k0tqL5N_Ha3pNmNdO7Qn-12">
+        <mxCell id="unyQYjml7Y8swhHqlE0d-2" edge="1" parent="1" source="k0tqL5N_Ha3pNmNdO7Qn-1" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="k0tqL5N_Ha3pNmNdO7Qn-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k0tqL5N_Ha3pNmNdO7Qn-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="获取模型" vertex="1">
@@ -13,20 +13,11 @@
         <mxCell id="k0tqL5N_Ha3pNmNdO7Qn-7" edge="1" parent="1" source="k0tqL5N_Ha3pNmNdO7Qn-2" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="k0tqL5N_Ha3pNmNdO7Qn-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k0tqL5N_Ha3pNmNdO7Qn-16" edge="1" parent="1" source="k0tqL5N_Ha3pNmNdO7Qn-2" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="k0tqL5N_Ha3pNmNdO7Qn-1">
+        <mxCell id="unyQYjml7Y8swhHqlE0d-1" edge="1" parent="1" source="k0tqL5N_Ha3pNmNdO7Qn-2" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="k0tqL5N_Ha3pNmNdO7Qn-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k0tqL5N_Ha3pNmNdO7Qn-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="A245-00004.asm" vertex="1">
-          <mxGeometry height="60" width="120" x="120" y="140" as="geometry" />
-        </mxCell>
-        <mxCell id="k0tqL5N_Ha3pNmNdO7Qn-11" edge="1" parent="1" source="k0tqL5N_Ha3pNmNdO7Qn-6" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="k0tqL5N_Ha3pNmNdO7Qn-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="k0tqL5N_Ha3pNmNdO7Qn-17" edge="1" parent="1" source="k0tqL5N_Ha3pNmNdO7Qn-6" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="k0tqL5N_Ha3pNmNdO7Qn-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="k0tqL5N_Ha3pNmNdO7Qn-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="CL6M-CL5025-CN17103-001.asm" vertex="1">
-          <mxGeometry height="60" width="120" x="510" y="140" as="geometry" />
+        <mxCell id="k0tqL5N_Ha3pNmNdO7Qn-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="CL5M-CL5025-CN17108-007.asm" vertex="1">
+          <mxGeometry height="60" width="120" x="315" y="140" as="geometry" />
         </mxCell>
         <mxCell id="k0tqL5N_Ha3pNmNdO7Qn-18" edge="1" parent="1" source="k0tqL5N_Ha3pNmNdO7Qn-9" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="k0tqL5N_Ha3pNmNdO7Qn-19">
           <mxGeometry relative="1" as="geometry" />
@@ -40,54 +31,24 @@
         <mxCell id="k0tqL5N_Ha3pNmNdO7Qn-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="获取参数名PNAME参数值PNAME参数值接地块" vertex="1">
           <mxGeometry height="60" width="120" x="510" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="k0tqL5N_Ha3pNmNdO7Qn-13" edge="1" parent="1" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;">
+        <mxCell id="k0tqL5N_Ha3pNmNdO7Qn-24" edge="1" parent="1" source="k0tqL5N_Ha3pNmNdO7Qn-19" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;entryX=0.435;entryY=0.013;entryDx=0;entryDy=0;" target="k0tqL5N_Ha3pNmNdO7Qn-29">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="200" as="sourcePoint" />
-            <mxPoint x="380" y="240" as="targetPoint" />
+            <mxPoint x="180" y="457" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k0tqL5N_Ha3pNmNdO7Qn-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="ASSY-PART.asm" vertex="1">
-          <mxGeometry height="60" width="120" x="320" y="140" as="geometry" />
-        </mxCell>
-        <mxCell id="k0tqL5N_Ha3pNmNdO7Qn-21" edge="1" parent="1" source="k0tqL5N_Ha3pNmNdO7Qn-14" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="k0tqL5N_Ha3pNmNdO7Qn-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="k0tqL5N_Ha3pNmNdO7Qn-23" edge="1" parent="1" source="k0tqL5N_Ha3pNmNdO7Qn-14" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="k0tqL5N_Ha3pNmNdO7Qn-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="k0tqL5N_Ha3pNmNdO7Qn-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="获取参数名PNAME参数值为十字槽凹穴六角头螺栓组合件M6X16" vertex="1">
-          <mxGeometry height="60" width="120" x="320" y="240" as="geometry" />
-        </mxCell>
-        <mxCell id="k0tqL5N_Ha3pNmNdO7Qn-24" edge="1" parent="1" source="k0tqL5N_Ha3pNmNdO7Qn-19" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="k0tqL5N_Ha3pNmNdO7Qn-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="k0tqL5N_Ha3pNmNdO7Qn-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="接地块与最近的十字槽凹穴六角头螺栓组合件M6X16" vertex="1">
+        <mxCell id="k0tqL5N_Ha3pNmNdO7Qn-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="获取参数名PNAME参数值PNAME参数值水型压铆螺母柱" vertex="1">
           <mxGeometry height="60" width="120" x="120" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="k0tqL5N_Ha3pNmNdO7Qn-27" edge="1" parent="1" source="k0tqL5N_Ha3pNmNdO7Qn-20" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="k0tqL5N_Ha3pNmNdO7Qn-26">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="k0tqL5N_Ha3pNmNdO7Qn-27" edge="1" parent="1" source="k0tqL5N_Ha3pNmNdO7Qn-20" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="k0tqL5N_Ha3pNmNdO7Qn-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570.9999999999998" y="455" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="k0tqL5N_Ha3pNmNdO7Qn-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="接地块与最近的十字槽凹穴六角头螺栓组合件M6X16" vertex="1">
+        <mxCell id="k0tqL5N_Ha3pNmNdO7Qn-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="获取参数名PNAME参数值PNAME参数值水型压铆螺母柱" vertex="1">
           <mxGeometry height="60" width="120" x="511" y="357" as="geometry" />
         </mxCell>
-        <mxCell id="k0tqL5N_Ha3pNmNdO7Qn-28" edge="1" parent="1" source="k0tqL5N_Ha3pNmNdO7Qn-25" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="k0tqL5N_Ha3pNmNdO7Qn-29">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="560" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="k0tqL5N_Ha3pNmNdO7Qn-25" parent="1" style="whiteSpace=wrap;html=1;" value="十字槽凹穴六角头螺栓组合件M6X16，添加高亮" vertex="1">
-          <mxGeometry height="60" width="120" x="120" y="457" as="geometry" />
-        </mxCell>
-        <mxCell id="k0tqL5N_Ha3pNmNdO7Qn-32" edge="1" parent="1" source="k0tqL5N_Ha3pNmNdO7Qn-26" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="k0tqL5N_Ha3pNmNdO7Qn-29">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="571" y="555" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="k0tqL5N_Ha3pNmNdO7Qn-26" parent="1" style="whiteSpace=wrap;html=1;" value="十字槽凹穴六角头螺栓组合件M6X16，添加高亮" vertex="1">
-          <mxGeometry height="60" width="120" x="511" y="455" as="geometry" />
-        </mxCell>
-        <mxCell id="k0tqL5N_Ha3pNmNdO7Qn-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="判断两个十字槽凹穴六角头螺直径是否相等，是为合格" vertex="1">
-          <mxGeometry height="60" width="120" x="311" y="600" as="geometry" />
+        <mxCell id="k0tqL5N_Ha3pNmNdO7Qn-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="判断两个螺母柱直径是否相等，是为合格" vertex="1">
+          <mxGeometry height="60" width="120" x="312" y="500" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
